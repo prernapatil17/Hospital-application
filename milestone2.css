@@ -1,0 +1,383 @@
+.img1 {
+    width: 100%;
+    height: 720px;
+}
+
+.container1 {
+    position: relative;
+}
+
+
+.branch {
+    position: absolute;
+    top: 16px;
+    left: 267px;
+    color: white;
+    font-size: 26px;
+}
+
+.homepage {
+    position: absolute;
+    display: flex;
+    gap: 33px;
+    top: 5px;
+    left: 517px;
+    color: white;
+    font-size: 17px;
+}
+
+.button1 {
+    position: absolute;
+    top: 13px;
+    left: 1047px;
+    background: #00BCD4;
+    color: white;
+    padding: 13px;
+    border-radius: 7px;
+}
+
+.para {
+    position: absolute;
+    top: 100px;
+    left: -311px;
+    color: white;
+}
+
+.para>h1 {
+    font-size: 53px;
+}
+
+.login {
+    background: white;
+    top: 20px;
+    left: 366px;
+    gap: 10p;
+    border-radius: 8px;
+    margin: -39px 10px px;
+    padding: 1px 65px;
+    position: absolute;
+}
+
+.for_flex {
+    position: absolute;
+    display: flex;
+    top: 100px;
+    left: 556px;
+}
+
+.flex {
+    display: flex;
+    gap: 10px;
+    justify-content: center;
+
+}
+
+
+
+.heading {
+    padding: 0px 0px;
+    margin: 37px 22px;
+}
+
+.log {
+    padding: 11px 44px;
+    margin: 9px 2px;
+    background: #f1f1f1;
+    border: 2px solid #dad7d7;
+}
+
+.log-button {
+    padding: 20px 64px;
+    margin: 28px 2px;
+    font-size: 17px;
+    background: #00BCD4;
+    border: none;
+    border-radius: 5px;
+}
+
+.log1 {
+    padding: 35px 2px;
+    margin: 39px 0px;
+
+}
+
+.log2 {
+    padding: 13px 75px;
+    margin: 4px 3px;
+    background: #f1f1f1;
+    border: 2px solid #dad7d7;
+
+}
+
+.get-quote {
+    background: #00BCD4;
+    color: white;
+    padding: 16px;
+    border-radius: 28px;
+}
+
+.learn-more {
+    padding: 16px 31px;
+    border-radius: 28px;
+    border-color: white;
+    background: none;
+    color: white;
+}
+
+
+
+.lead1 {
+    background: rgb(237, 231, 231);
+    padding: 3px 18px;
+    border-radius: 10px;
+}
+
+.blue {
+    background: #00BCD4;
+    border-radius: 10px;
+    padding: 10px 7px;
+    margin: -2px -17px;
+}
+
+.blue2 {
+    color: #00BCD4;
+}
+
+.gray {
+    background: rgb(237, 231, 231);
+    padding: 36px 12px;
+    margin: 35px 4px;
+}
+
+.flex2 {
+    display: flex;
+    justify-content: center;
+    padding: 10px 394px;
+    gap: 10px;
+}
+
+.checked {
+    color: orange;
+}
+
+.star {
+    background: white;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+.flex-1 {
+    display: flex;
+    justify-content: center;
+    font-size: 22px;
+    margin: 9px 19px;
+    padding: 13px 16px;
+}
+
+.quick {
+
+    padding: 10px 22px;
+    margin: 7px 5px;
+}
+
+.flex-2 {
+    padding: 10px;
+}
+
+.span1 {
+    color: #00BCD4;
+}
+
+.pricing {
+    background: #f7f7f7;
+}
+
+
+
+
+.flex4 {
+    display: flex;
+    justify-content: center;
+    padding: 55px 0px;
+    gap: 2px;
+}
+
+
+.em-img {
+    border-radius: 74px;
+}
+
+.em-span {
+    padding: 0px 13px;
+    margin: -33px 1px;
+    position: absolute;
+    top: 952px;
+    font-size: 21px;
+}
+
+.flex4 {
+    display: flex;
+}
+
+.card {
+    border: 2px solid black;
+    padding: 59px 24px;
+    margin: -6px 0px;
+    border-radius: 10px;
+}
+
+.h1 {
+    padding: 0px 92px;
+    margin: 8px 1px;
+}
+
+p.p {
+    padding: 0px 36px;
+    margin: 6px 4px;
+}
+
+p.price {
+    padding: 10px 10px;
+    margin: 23px 50px;
+    color: #00BCD4;
+    font-size: 30px;
+}
+
+span.month1 {
+    position: absolute;
+    top: 2435px;
+    padding: 84px 84px;
+    color: #1fb9e4;
+}
+
+
+span.month2 {
+    position: absolute;
+    top: 2430px;
+    padding: 78px 123px;
+    color: #1fb9e4;
+}
+
+span.month3 {
+    position: absolute;
+    top: 2439px;
+    padding: 82px 138px;
+    color: #1fb9e4;
+}
+
+
+button {
+    padding: 17px 94px;
+    margin: 63px 40px;
+    border-radius: 6px;
+    background-color: #26b4ff;
+    color: white;
+    border: none;
+}
+
+.card2 {
+    border: 2px solid black;
+    padding: 83px 24px;
+    margin-top: -42px;
+    margin-bottom: -6px;
+    border-radius: 10px;
+    color: white;
+    background: #040451;
+}
+
+.dollar {
+    font-size: 16px;
+    position: absolute;
+}
+
+.flex-4 {
+    display: flex;
+    background: #040451;
+    color: white;
+}
+
+.flex11 {
+    padding: 0px 253px;
+    margin: 96px 7px;
+    font-size: 24px;
+}
+
+.flex1 {
+    justify-content: center;
+    font-size: 38px;
+    padding: 34px 10px;
+    position: absolute;
+    margin: 18px 265px;
+}
+
+button.but1 {
+    padding: 10px 78px;
+    margin: 89px 150px;
+    color: black;
+    background: white;
+
+}
+
+.subscribe {
+    background: blue;
+    color: white;
+    position: absolute;
+    top: 66px;
+    right: -48px;
+    padding: 17px 34px;
+    margin: 23px 127px;
+    border-radius: 2px;
+    font-size: 16px;
+}
+
+.flex5 {
+    display: flex;
+    justify-content: space-between;
+    margin: 30px 273px;
+}
+
+.insta {
+    border-radius: 10px;
+}
+
+.footer {
+    display: flex;
+    justify-content: center;
+    background: rgb(228, 224, 224);
+}
+
+h1.flex01 {
+    display: flex;
+    padding: 0px px 15px;
+    font-size: 39px;
+    margin: 9px 13px;
+    justify-content: center;
+    /* justify-content: space-between; */
+}
+
+h1.flex02 {
+    display: flex;
+    padding: 0px px 15px;
+    font-size: 39px;
+    margin: 9px 13px;
+    justify-content: center;
+    /* justify-content: space-between; */
+}
+
+h1.flex03 {
+    display: flex;
+    padding: 0px px 15px;
+    font-size: 39px;
+    margin: 9px 13px;
+    justify-content: center;
+    /* justify-content: space-between; */
+}
+
+h1.flex04 {
+    display: flex;
+    padding: 0px px 15px;
+    font-size: 39px;
+    margin: 9px 13px;
+    justify-content: center;
+    /* justify-content: space-between; */
+}
